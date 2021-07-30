@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 #
-# Author  : Joker-Security
+# Author  : Hackermachan
 # Hercules - Automated VPN Connect
-# Twitter: https://twitter.com/SecurityJoker
-# Channel ; https://www.youtube.com/c/Professionalhacker25
-# FACE Pg2: https://facebook.com/kali.linux.pentesting.tutorials
+# instagram : sajuuz_5
+# Channel ; https://youtube.com/channel/UC5AmiT44HyEZ2Rkc0WT0ZZA
+
 
 import os
 import re
@@ -34,8 +34,8 @@ def banner():
    o          <W    |___|___||_____|__| |____|_____||__||_____|_____|      
               <W
               <W             \033[92m Hercules - Automated VPN Connect  
-              (O)                C0d3n4m3:\033[91m Joker-Security \033[92m       
-\033[93m                                  github.com/joker25000                                                                                                                                                                                       
+              (O)                C0d3n4m3:\033[91m Hackermachan \033[92m       
+\033[93m                                  github.com/Hackermachan2                                                                                                                                                                                      
 """)
 def command():
 	os.system('clear')
