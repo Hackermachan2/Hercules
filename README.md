@@ -3,7 +3,7 @@
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Ubuntu,Kali,Arch,Parrot-blue,Android.svg)]()
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-# ***Author*** : Joker-Security [ dev-labs ] 
+# ***Author*** : Hackermachan [ cyber-labs ] 
  ![](https://i.imgur.com/lBPbWxo.png)
  
 # ***Description***: 
@@ -21,15 +21,13 @@ $ python2 hercules.py
 ## ***Screenshot*** :
 <img src="https://i.imgur.com/XSDVqZw.png" width="80%"></img>
 
-## ***video tutorial***:
-[![ Hercules-Automated VPN Connect ](https://i.ytimg.com/vi/6sbkFGZpwHY/hqdefault.jpg)](https://www.youtube.com/watch?v=6sbkFGZpwHY&feature=youtu.be)
+## ***youtube channel***:
+[![ Hercules-Automated VPN Connect ](https://youtube.com/channel/UC5AmiT44HyEZ2Rkc0WT0ZZA)
 
 ## ***About*** :
 
-$ Twitter : https://twitter.com/SecurityJoker
+$ instagram : sajuuz_5
 
-$ YOUTUBE : https://www.youtube.com/c/Professionalhacker25
-
-$ FACEBOOK: https://facebook.com/kali.linux.pentesting.tutorials
+$ YOUTUBE : https://youtube.com/channel/UC5AmiT44HyEZ2Rkc0WT0ZZA
 
 $ Tested On : Kali Linux / Parrot Os / Ubuntu / ArchLinux /Manjaro
